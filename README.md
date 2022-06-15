@@ -15,10 +15,13 @@
 ## Code Structure
 
 
-    ├── .github
+    ├── dist
     ├── JARVIS_Downloader
     ├── pyproject.toml
     ├── setup.cfg
+    ├── README.md
+    ├── LICENSE.md
+    ├── .gitattributes
 
 ## Extras
 #### If you have any issues, you can post it in the issues page and I will try to solve it ASAP. If you are interested to know more about the code,etc. you can mail me on "shahharshit063@gmail.com".
