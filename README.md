@@ -15,25 +15,10 @@
 ## Code Structure
 
 
-    ├── .github                                    # Github Files
-    ├── .vscode                                    # VSCode Config Files
-    ├── __pycache__                                # Cache Folder
-    ├── env                                        # ENV
-    ├── mic                                        # Files For Mic Function
-    │   ├── Zoom_mic.png                           # Zoom's Mic Picture
-    │   ├── msTeams_mic.png                        # Team's Mic Picture
-    │   ├── msTeams.py                             # Script To Unmute MSTeam's Mic
-    │   ├── zoom.py                                # Script To Unmute MSTeam's Mic
-    │   ├── process.py                             # Process Checking Script
-    │   └── speak_f.py                             # Speak Function File
-    ├── .gitattributes                             # gitattributes File
-    ├── .gitignore                                 # gitignore File
-    ├── token.py                                   # Token File
-    ├── Main.py                                    # Main JARVIS File
-    ├── functions.py                               # Functions
-    ├── __init__.py                                # Starting File
-    ├── run.cmd                                    # Command Prompt Script To Run The Program
-    └── run.ps1                                    # Powershell Script To Run The Program
+    ├── .github
+    ├── JARVIS_Downloader
+    ├── pyproject.toml
+    ├── setup.cfg
 
 ## Extras
 #### If you have any issues, you can post it in the issues page and I will try to solve it ASAP. If you are interested to know more about the code,etc. you can mail me on "shahharshit063@gmail.com".
