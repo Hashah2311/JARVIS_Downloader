@@ -9,7 +9,7 @@
 #### This is JARVIS Downloader, A downloader for [JARVIS](https://www.github.com/Hashah2311/JARVIS). It is completely based on python.
 
 ## Installation
-#### As this is a python package so you can do ```pip install JARVIS_Downloader```, but you can also find .whl package in [packages section](https://github.com/users/Hashah2311/packages?repo_name=JARVIS_Downloader) and a portable version in [releases section](https://github.com/Hashah2311/JARVIS_Downloader/releases)
+#### As this is a python package so you can do ```pip install JARVIS_Downloader```, but you can also find .whl package and a portable version in [releases section](https://github.com/Hashah2311/JARVIS_Downloader/releases)
 #### You dont need to install python to run portable version of this app.
 
 ## Code Structure
